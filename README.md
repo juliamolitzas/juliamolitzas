@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate data science student eager to lea
 - 🌱 I'm also diving into Data Modeling, Data Warehouse, and Python to enhance my skills.
 
 ## 🌐 You can find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julia-molitzas-7072a525a) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julia-molitzas-7072a525a) 
+
 
 I'm always excited to connect with fellow enthusiasts, potential collaborators, or anyone passionate about data and technology. Feel free to reach out if you want to connect or collaborate!
 
