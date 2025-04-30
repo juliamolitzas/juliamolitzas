@@ -4,7 +4,7 @@ Hi, I'm Julia Molitzas! <img src="https://raw.githubusercontent.com/kaueMarques/
 Welcome to my GitHub profile! I'm a passionate data science student eager to learn and grow in the world of technology. Here's a little about me:
 
 - 📚 I'm currently studying Data Science at Fatec RL.
-- 💼 I'm working with Data Visualization and Power BI.
+- 💼 I'm working with Data Analysis, Power BI and Databricks.
 - 🌱 I'm also diving into Data Modeling, Data Warehouse, and Python to enhance my skills.
 
 ## 🌐 You can find me on:
